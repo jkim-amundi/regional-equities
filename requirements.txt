@@ -1,0 +1,12 @@
+numpy==2.3.5
+pandas==2.3.3
+statsmodels==0.14.6
+plotly==6.5.0
+gradio==5.49.1
+python-dateutil==2.9.0.post0
+lightgbm==4.6.0
+pycountry==24.6.1
+shap==0.50.0
+matplotlib==3.10.8
+scikit-learn==1.8.0
+openpyxl==3.1.5
